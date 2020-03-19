@@ -9,4 +9,6 @@ npm init
 ```bash
 npm start
 ```
-Apollo server sarà disponibile sulla porta 4000.
+Apollo server sarà disponibile sulla porta 4000:
+
+![Apollo server e GraphQL GIF](https://ars283.files.wordpress.com/2020/03/last.png)
