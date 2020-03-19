@@ -3,7 +3,7 @@
 
 > inizializzare il progetto con:
 ```bash
-npm init
+npm install
 ```
 > ed eseguirlo con:
 ```bash
